@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film dan Acara Tv</string>
+    <string name="title_movie">Film</string>
+    <string name="title_tvShow">Acara Tv</string>
+    <string name="title_favorite">Favorit</string>
+
+    <string name="movies_name">Nama Film</string>
+    <string name="tv_name">Nama Acara Tv</string>
+    <string name="description">Deskripsi</string>
+    <string name="with_cardview">dengan CardView</string>
+    <string name="release">melepaskan</string>
+    <string name="rating">peringkat</string>
+    <string name="image_rating">bintang</string>
+    <string name="language_code">en-IN</string>
+    <string name="submit">Menyerahkan</string>
+    <string name="delete">Hapus</string>
+    <string name="date">Tanggal</string>
+    <string name="add_favorite">Tambah ke Kesukaan</string>
+    <string name="favorite">Kesukaan</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Halo fragmen kosong</string>
+    <string name="todo">TODO</string>
+</resources>
